@@ -8,9 +8,9 @@ This project is a middle man attack project that is still under development. The
 
 Example of use arp-poison […]:
 
-python3 arp-poison.py -t 10.0.2.4 -g 10.0.2.1
+  python3 arp-poison.py -t 10.0.2.4 -g 10.0.2.1
 
 
 Example of use packet-listener :
 
-python3 packet-listener.py
+  python3 packet-listener.py
